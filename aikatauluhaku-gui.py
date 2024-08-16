@@ -3,7 +3,8 @@ from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLa
 from PyQt5.QtCore import Qt, QDate
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
+import pytz
 
 class AikatauluHakuGUI(QWidget):
     def __init__(self):
@@ -37,6 +38,7 @@ class AikatauluHakuGUI(QWidget):
         self.pvm_valinta.setDate(QDate.currentDate())
         self.pvm_valinta.setCalendarPopup(True)
         pvm_layout.addWidget(self.pvm_valinta)
+        pvm_layout.addStretch()  # Add this line
         layout.addLayout(pvm_layout)
 
         # Haku-nappi
@@ -61,6 +63,15 @@ class AikatauluHakuGUI(QWidget):
         kohde = self.kohde_entry.text()
         valittu_pvm = self.pvm_valinta.date().toPyDate()
         
+        # Get current time
+        now = datetime.now()
+        
+        # If selected date is today, use current time. Otherwise, use 00:00
+        if valittu_pvm == now.date():
+            lahtoaika = now.strftime("%H:%M")
+        else:
+            lahtoaika = "00:00"
+        
         url = "https://minfoapi.matkahuolto.fi/mlippu_rest/connections"
         
         params = {
@@ -68,6 +79,7 @@ class AikatauluHakuGUI(QWidget):
             "arrivalStopAreaName": kohde,
             "allSchedules": 0,
             "departureDate": valittu_pvm.strftime("%Y-%m-%d"),
+            "departureTime": lahtoaika,  # Add departure time to params
             "ticketTravelType": 0
         }
         
@@ -93,20 +105,31 @@ class AikatauluHakuGUI(QWidget):
         
         if 'connections' not in data or len(data['connections']) == 0:
             self.tulos_table.setRowCount(1)
-            self.tulos_table.setSpan(0, 0, 1, 14)  # Update span to cover the new column
+            self.tulos_table.setSpan(0, 0, 1, 14)
             self.tulos_table.setItem(0, 0, QTableWidgetItem("Ei löytynyt yhteyksiä annetuilla hakuehdoilla."))
             return
         
+        # Use Finland's timezone
+        finland_tz = pytz.timezone('Europe/Helsinki')
+        now = datetime.now(finland_tz)
+        
         for connection in data['connections']:
+            lahtoaika_str = connection['fromPlace']['dateTime']
+            # Parse the ISO format string and make it timezone-aware
+            lahtoaika = datetime.fromisoformat(lahtoaika_str).replace(tzinfo=pytz.UTC)
+            # Convert to Finland's timezone for comparison
+            lahtoaika = lahtoaika.astimezone(finland_tz)
+            
+            # Skip past departures
+            if lahtoaika <= now:
+                continue
+            
             row_position = self.tulos_table.rowCount()
             self.tulos_table.insertRow(row_position)
             
-            lahtoaika_str = connection['fromPlace']['dateTime']
             saapumisaika_str = connection['toPlace']['dateTime']
-            
-            # Käytetään datetime.fromisoformat() -funktiota ISO 8601 -muotoisen ajan jäsentämiseen
-            lahtoaika = datetime.fromisoformat(lahtoaika_str)
-            saapumisaika = datetime.fromisoformat(saapumisaika_str)
+            saapumisaika = datetime.fromisoformat(saapumisaika_str).replace(tzinfo=pytz.UTC)
+            saapumisaika = saapumisaika.astimezone(finland_tz)
             
             paivamaara = lahtoaika.strftime("%Y-%m-%d")
             lahtoaika_kello = lahtoaika.strftime("%H:%M")

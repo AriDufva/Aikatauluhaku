@@ -1,0 +1,1849 @@
+{
+  "connections": [
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T06:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU1MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU1MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU1MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T06:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T06:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T06:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T07:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU0NSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Särkiä - Lohja",
+        "number": "40A",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU0NSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU0NSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T07:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T07:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIzMDI3NSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Särkiä - Lohja",
+        "number": "40A",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIzMDI3NSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIzMDI3NSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T07:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T08:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T08:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T08:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2OSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2OSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2OSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T08:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:58",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T08:02:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37238",
+        "stopName": "Unkka L",
+        "digiStopId": 937238
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIwOTg4NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P,+",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "daysOfOperationNotice": "Kouluvuoden aikana",
+        "departureType": "vakio",
+        "lengthKm": 37.6,
+        "name": "Karjalohja - Lohja",
+        "number": "41",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIwOTg4NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIwOTg4NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T09:00:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:58",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T08:02:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37238",
+        "stopName": "Unkka L",
+        "digiStopId": 937238
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2OCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P,+",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "daysOfOperationNotice": "Kouluvuoden aikana",
+        "departureType": "vakio",
+        "lengthKm": 37.6,
+        "name": "Karjalohja - Lohja",
+        "number": "41",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2OCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2OCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T09:00:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:55",
+      "fromPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T08:10:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyODIwNyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "Koulp",
+        "daysOfOperationLong": "Koulupäivinä maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 31.9,
+        "name": "Karjaa - Lohja",
+        "number": "116",
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyODIwNyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T09:05:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:55",
+      "fromPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T08:10:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "Koulp",
+        "daysOfOperationLong": "Koulupäivinä maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 31.9,
+        "name": "Karjaa - Lohja",
+        "number": "116",
+        "validityPeriod": "02.09.24 - 11.10.24, 21.10.24 - 20.12.24, 07.01.25 - 14.02.25, 24.02.25 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg2NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T09:05:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T09:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T09:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T09:01:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T09:50:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:54",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T11:36:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "L,S",
+        "daysOfOperationLong": "Lauantaisin ja sunnuntaisin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40K",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T12:30:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:54",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T11:36:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "L,S",
+        "daysOfOperationLong": "Lauantaisin ja sunnuntaisin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40K",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 01.06.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T12:30:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T12:11:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T13:00:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T12:11:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3OSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3OSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3OSxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T13:00:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T14:11:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3OCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3OCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk3OCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T15:00:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T14:11:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk4MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk4MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTk4MCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T15:00:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T15:31:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2MyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T16:20:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T15:31:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T16:20:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T16:31:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU0NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Särkiä - Lohja",
+        "number": "40A",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU0NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU0NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T17:20:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T16:31:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIzMDI3NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Särkiä - Lohja",
+        "number": "40A",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIzMDI3NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIzMDI3NixudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T17:20:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T18:31:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2NCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2NCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2NCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T19:20:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:49",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T18:31:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "M-P",
+        "daysOfOperationLong": "Maanantaista perjantaihin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 31.05.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3MyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T19:20:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "67",
+          "name": "J. Vainion Liikenne Oy"
+        }
+      ],
+      "duration": "00:54",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T18:36:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "L,S",
+        "daysOfOperationLong": "Lauantaisin ja sunnuntaisin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40K",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "01.09.24 asti"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyNDU2NyxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T19:30:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    },
+    {
+      "adultPrice": 4.3,
+      "companies": [
+        {
+          "companyId": "20",
+          "name": "Koiviston Auto Länsi Oy"
+        }
+      ],
+      "duration": "00:54",
+      "fromPlace": {
+        "dateTimeEstimated": true,
+        "dateTime": "1970-01-01T18:36:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Karjalohja",
+        "stopAreaId": "s3256",
+        "stopAreaName": "Unkka",
+        "stopId": "st37240",
+        "stopName": "Unkka I",
+        "digiStopId": 75394
+      },
+      "id": "eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3NCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ",
+      "internetSaleAllowed": false,
+      "line": {
+        "daysOfOperation": "L,S",
+        "daysOfOperationLong": "Lauantaisin ja sunnuntaisin",
+        "departureType": "vakio",
+        "lengthKm": 32.2,
+        "name": "Karjalohja - Lohja",
+        "number": "40K",
+        "services": [
+          {
+            "id": "ac",
+            "service": "Ilmastointi"
+          },
+          {
+            "id": "py",
+            "service": "Lemmikit sallittu"
+          }
+        ],
+        "validityPeriod": "02.09.24 - 01.06.25"
+      },
+      "links": [
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3NCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/details",
+          "method": "GET",
+          "rel": "/connections/details",
+          "title": "Tarkemmat tiedot vuorosta"
+        },
+        {
+          "href": "/mlippu_rest/connection/eyJxdWVyeVZPIjp7InBsYWNlTmFtZUlkcyI6WzE0OTQsMTA1NCxudWxsLG51bGxdLCJzdG9wQXJlYUlkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJzdG9wSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInN0b3BBcmVhTmFtZXMiOlsiS2FyamFsb2hqYSIsIkxvaGphIixudWxsLG51bGxdLCJwbGFjZU5hbWVzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sImNoYW5nZXMiOjIsInVwZGF0ZVN0YXRpc3RpY3MiOnRydWUsInJldHVyblJlc2VydmF0aW9uQWxsb3dlZCI6dHJ1ZSwicmV0dXJuRGVwYXJ0dXJlUmVzZXJ2YXRpb25NYXBJZCI6dHJ1ZSwicmV0dXJuUHJpY2VzQWxsb3dlZCI6dHJ1ZSwicmV0dXJuU2FsZXNBbGxvd2VkIjp0cnVlLCJyZXR1cm5SZXNlcnZhdGlvbk1hcFNlbnQiOnRydWUsInJldHVybkJhcmdhaW5QcmljZSI6dHJ1ZSwiZnJvbVBlcmlvZERhdGUiOiIyMDI0LTA4LTE2Iiwib25seUJhcmdhaW5UaWNrZXRzIjpmYWxzZSwiZGVwYXJ0dXJlSWRzIjpbbnVsbCxudWxsLG51bGwsbnVsbF0sInJldHVyblNhbGVzT25UaGVNb3ZlQWxsb3dlZCI6dHJ1ZSwicXVlcnlTdHJpbmciOiJhbGxTY2hlZHVsZXM9MSZhcnJpdmFsU3RvcEFyZWFOYW1lPUxvaGphJmRlcGFydHVyZVN0b3BBcmVhTmFtZT1LYXJqYWxvaGphJnRpY2tldFRyYXZlbFR5cGU9MCIsInJldHVyblRyaXAiOmZhbHNlLCJyZXR1cm5TYWxlc0F0VGhlU3RhdGlvbkFsbG93ZWQiOmZhbHNlLCJyZXR1cm5QcmljZURldGFpbHMiOmZhbHNlLCJkaWdpU3RvcElkcyI6W251bGwsbnVsbCxudWxsLG51bGxdLCJxdW90YVJlc2VydmF0aW9uIjpmYWxzZSwiY29tcGFueUNvZGUiOiIiLCJyZXR1cm5SZXNlcnZhYmxlU2VydmljZXMiOnRydWUsImlubGluZVNpbWlsYXJDb25uZWN0aW9ucyI6ZmFsc2UsIm1hcERpc2NvdW50VHlwZVRvUGFzc2VuZ2VyQ291bnQiOnt9LCJjb25uZWN0aW9uRGV0YWlsc1F1ZXJ5IjpmYWxzZSwiY29ubmVjdGlvbkF2YWlsYWJpbGl0eVF1ZXJ5IjpmYWxzZSwidHJhbnNmZXJDb25uZWN0aW9uUXVlcnkiOmZhbHNlLCJwYWdlSW5kZXgiOjAsInBhZ2VTaXplIjowLCJzb3J0T3JkZXIiOnRydWUsInF1aWNrIjpmYWxzZX0sImRlcGFydHVyZUlkcyI6WzIyOTg3NCxudWxsLG51bGwsbnVsbF0sImRlcGFydHVyZVN0b3BBcmVhSWQiOjMyNTYsImFycml2YWxTdG9wQXJlYUlkIjo2MjgwfQ/prices",
+          "method": "GET",
+          "rel": "/connections/prices",
+          "title": "Hinnat"
+        }
+      ],
+      "partTrips": [],
+      "placeReservationAvailable": false,
+      "toPlace": {
+        "dateTimeEstimated": false,
+        "dateTime": "1970-01-01T19:30:00+02:00",
+        "municipality": "Lohja",
+        "municipalityCode": "444",
+        "placeName": "Lohja",
+        "stopAreaId": "s6280",
+        "stopAreaName": "linja-autoasema",
+        "stopId": "st76314",
+        "stopName": "T",
+        "digiStopId": 27277
+      }
+    }
+  ],
+  "daysOfOperationDescriptions": [
+    {
+      "daysOfOperation": "M-P",
+      "daysOfOperationLong": "Maanantaista perjantaihin"
+    },
+    {
+      "daysOfOperation": "Koulp",
+      "daysOfOperationLong": "Koulupäivinä maanantaista perjantaihin"
+    },
+    {
+      "daysOfOperation": "L,S",
+      "daysOfOperationLong": "Lauantaisin ja sunnuntaisin"
+    },
+    {
+      "daysOfOperation": "+",
+      "daysOfOperationLong": "Kouluvuoden aikana"
+    }
+  ],
+  "id": "99094fa5-9e67-4a09-9633-22f77b38d23c",
+  "numberOfConnections": "26",
+  "searchCriteria": "allSchedules=1&arrivalStopAreaName=Lohja&departureStopAreaName=Karjalohja&ticketTravelType=0",
+  "similarConnections": {
+    "links": [
+      {
+        "href": "/mlippu_rest/connections?departureStopAreaId=&departureStopAreaName=Lohja&arrivalStopAreaId=&arrivalStopAreaName=Karjalohja&allSchedules=1&departureDate=&ticketTravelType=0&filters=&services=&companies=",
+        "method": "GET",
+        "rel": "/connection/oppositedirection",
+        "title": "Lohja - Karjalohja"
+      }
+    ]
+  }
+}
