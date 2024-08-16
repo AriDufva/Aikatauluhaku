@@ -46,10 +46,10 @@ class AikatauluHakuGUI(QWidget):
 
         # Päivitetään taulukon sarakkeet
         self.tulos_table = QTableWidget()
-        self.tulos_table.setColumnCount(13)  # Lisätään yksi sarake päivämäärälle
+        self.tulos_table.setColumnCount(14)  # Increase column count by 1
         self.tulos_table.setHorizontalHeaderLabels([
             "Päivämäärä", "Lähtöaika", "Saapumisaika", "Kesto", "Hinta", "Yhtiö", "Linja",
-            "Vuorotyyppi", "Nimi", "Ajopäivät", "Voimassa", "Pituus (km)", "Palvelut"
+            "Vuorotyyppi", "Nimi", "Ajopäivät", "Voimassa", "Pituus (km)", "Palvelut", "Pysäkki"
         ])
         self.tulos_table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
         layout.addWidget(self.tulos_table)
@@ -85,7 +85,7 @@ class AikatauluHakuGUI(QWidget):
             self.nayta_aikataulut(data)
         except requests.exceptions.RequestException as e:
             self.tulos_table.setRowCount(1)
-            self.tulos_table.setSpan(0, 0, 1, 13)  # Päivitetään span kattamaan uusi sarake
+            self.tulos_table.setSpan(0, 0, 1, 14)  # Update span to cover the new column
             self.tulos_table.setItem(0, 0, QTableWidgetItem(f"Virhe haussa: {str(e)}"))
 
     def nayta_aikataulut(self, data):
@@ -93,7 +93,7 @@ class AikatauluHakuGUI(QWidget):
         
         if 'connections' not in data or len(data['connections']) == 0:
             self.tulos_table.setRowCount(1)
-            self.tulos_table.setSpan(0, 0, 1, 13)  # Päivitetään span kattamaan uusi sarake
+            self.tulos_table.setSpan(0, 0, 1, 14)  # Update span to cover the new column
             self.tulos_table.setItem(0, 0, QTableWidgetItem("Ei löytynyt yhteyksiä annetuilla hakuehdoilla."))
             return
         
@@ -123,6 +123,9 @@ class AikatauluHakuGUI(QWidget):
             pituus = connection['line'].get('lengthKm', 'N/A')
             palvelut = ', '.join([service.get('service', '') for service in connection['line'].get('services', [])])
             
+            # Fetch the stop name
+            pysakki = connection['fromPlace'].get('stopAreaName', 'N/A')
+            
             self.tulos_table.setItem(row_position, 0, QTableWidgetItem(paivamaara))
             self.tulos_table.setItem(row_position, 1, QTableWidgetItem(lahtoaika_kello))
             self.tulos_table.setItem(row_position, 2, QTableWidgetItem(saapumisaika_kello))
@@ -136,6 +139,7 @@ class AikatauluHakuGUI(QWidget):
             self.tulos_table.setItem(row_position, 10, QTableWidgetItem(str(voimassa)))
             self.tulos_table.setItem(row_position, 11, QTableWidgetItem(str(pituus)))
             self.tulos_table.setItem(row_position, 12, QTableWidgetItem(palvelut))
+            self.tulos_table.setItem(row_position, 13, QTableWidgetItem(str(pysakki)))  # Add the new 'Pysäkki' column
 
         self.tulos_table.resizeColumnsToContents()
 
