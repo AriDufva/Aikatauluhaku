@@ -5,6 +5,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 import pytz
+from PyQt5.QtGui import QColor
 
 class AikatauluHakuGUI(QWidget):
     def __init__(self):
@@ -113,7 +114,7 @@ class AikatauluHakuGUI(QWidget):
         finland_tz = pytz.timezone('Europe/Helsinki')
         now = datetime.now(finland_tz)
         
-        for connection in data['connections']:
+        for i, connection in enumerate(data['connections']):
             lahtoaika_str = connection['fromPlace']['dateTime']
             # Parse the ISO format string and set it to Finland's timezone without conversion
             lahtoaika = datetime.fromisoformat(lahtoaika_str).replace(tzinfo=finland_tz)
@@ -124,6 +125,10 @@ class AikatauluHakuGUI(QWidget):
             
             row_position = self.tulos_table.rowCount()
             self.tulos_table.insertRow(row_position)
+            
+            # Set alternating row colors
+            row_color = Qt.lightGray if i % 2 != 0 else Qt.white
+            text_color = QColor(0, 0, 0)  # Black text for all rows
             
             saapumisaika_str = connection['toPlace']['dateTime']
             saapumisaika = datetime.fromisoformat(saapumisaika_str).replace(tzinfo=finland_tz)
@@ -160,6 +165,13 @@ class AikatauluHakuGUI(QWidget):
             self.tulos_table.setItem(row_position, 11, QTableWidgetItem(str(pituus)))
             self.tulos_table.setItem(row_position, 12, QTableWidgetItem(palvelut))
             self.tulos_table.setItem(row_position, 13, QTableWidgetItem(str(pysakki)))  # Add the new 'Pysäkki' column
+            
+            # Apply background color and text color to each cell in the row
+            for col in range(self.tulos_table.columnCount()):
+                item = self.tulos_table.item(row_position, col)
+                if item:
+                    item.setBackground(row_color)
+                    item.setForeground(text_color)
 
         self.tulos_table.resizeColumnsToContents()
 
