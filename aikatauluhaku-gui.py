@@ -115,10 +115,8 @@ class AikatauluHakuGUI(QWidget):
         
         for connection in data['connections']:
             lahtoaika_str = connection['fromPlace']['dateTime']
-            # Parse the ISO format string and make it timezone-aware
-            lahtoaika = datetime.fromisoformat(lahtoaika_str).replace(tzinfo=pytz.UTC)
-            # Convert to Finland's timezone for comparison
-            lahtoaika = lahtoaika.astimezone(finland_tz)
+            # Parse the ISO format string and set it to Finland's timezone without conversion
+            lahtoaika = datetime.fromisoformat(lahtoaika_str).replace(tzinfo=finland_tz)
             
             # Skip past departures
             if lahtoaika <= now:
@@ -128,8 +126,7 @@ class AikatauluHakuGUI(QWidget):
             self.tulos_table.insertRow(row_position)
             
             saapumisaika_str = connection['toPlace']['dateTime']
-            saapumisaika = datetime.fromisoformat(saapumisaika_str).replace(tzinfo=pytz.UTC)
-            saapumisaika = saapumisaika.astimezone(finland_tz)
+            saapumisaika = datetime.fromisoformat(saapumisaika_str).replace(tzinfo=finland_tz)
             
             paivamaara = lahtoaika.strftime("%Y-%m-%d")
             lahtoaika_kello = lahtoaika.strftime("%H:%M")
