@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView
-from PyQt5.QtCore import Qt
+from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView, QDateEdit
+from PyQt5.QtCore import Qt, QDate
 import requests
 import json
 from datetime import datetime
@@ -29,6 +29,15 @@ class AikatauluHakuGUI(QWidget):
         self.kohde_entry = QLineEdit()
         kohde_layout.addWidget(self.kohde_entry)
         layout.addLayout(kohde_layout)
+        
+        # Päivämäärävalinta
+        pvm_layout = QHBoxLayout()
+        pvm_layout.addWidget(QLabel('Päivämäärä:'))
+        self.pvm_valinta = QDateEdit()
+        self.pvm_valinta.setDate(QDate.currentDate())
+        self.pvm_valinta.setCalendarPopup(True)
+        pvm_layout.addWidget(self.pvm_valinta)
+        layout.addLayout(pvm_layout)
 
         # Haku-nappi
         self.haku_button = QPushButton('Hae aikataulut')
@@ -50,6 +59,7 @@ class AikatauluHakuGUI(QWidget):
     def hae_aikataulut(self):
         lahto = self.lahto_entry.text()
         kohde = self.kohde_entry.text()
+        valittu_pvm = self.pvm_valinta.date().toPyDate()
         
         url = "https://minfoapi.matkahuolto.fi/mlippu_rest/connections"
         
@@ -57,7 +67,7 @@ class AikatauluHakuGUI(QWidget):
             "departureStopAreaName": lahto,
             "arrivalStopAreaName": kohde,
             "allSchedules": 0,
-            "departureDate": datetime.now().strftime("%Y-%m-%d"),
+            "departureDate": valittu_pvm.strftime("%Y-%m-%d"),
             "ticketTravelType": 0
         }
         
