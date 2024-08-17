@@ -1,10 +1,11 @@
 import sys
+print(sys.executable)
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView, QDateEdit
 from PyQt5.QtCore import Qt, QDate
-import requests
+from urllib import request, parse
 import json
 from datetime import datetime, timedelta
-import pytz
+from zoneinfo import ZoneInfo
 from PyQt5.QtGui import QColor
 
 class AikatauluHakuGUI(QWidget):
@@ -80,7 +81,7 @@ class AikatauluHakuGUI(QWidget):
             "arrivalStopAreaName": kohde,
             "allSchedules": 0,
             "departureDate": valittu_pvm.strftime("%Y-%m-%d"),
-            "departureTime": lahtoaika,  # Add departure time to params
+            "departureTime": lahtoaika,
             "ticketTravelType": 0
         }
         
@@ -91,14 +92,16 @@ class AikatauluHakuGUI(QWidget):
         }
         
         try:
-            response = requests.get(url, params=params, headers=headers)
-            response.raise_for_status()
-            data = response.json()
+            url_params = parse.urlencode(params)
+            full_url = f"{url}?{url_params}"
+            req = request.Request(full_url, headers=headers)
+            with request.urlopen(req) as response:
+                data = json.loads(response.read().decode())
             
             self.nayta_aikataulut(data)
-        except requests.exceptions.RequestException as e:
+        except Exception as e:
             self.tulos_table.setRowCount(1)
-            self.tulos_table.setSpan(0, 0, 1, 14)  # Update span to cover the new column
+            self.tulos_table.setSpan(0, 0, 1, 14)
             self.tulos_table.setItem(0, 0, QTableWidgetItem(f"Virhe haussa: {str(e)}"))
 
     def nayta_aikataulut(self, data):
@@ -111,7 +114,7 @@ class AikatauluHakuGUI(QWidget):
             return
         
         # Use Finland's timezone
-        finland_tz = pytz.timezone('Europe/Helsinki')
+        finland_tz = ZoneInfo("Europe/Helsinki")
         now = datetime.now(finland_tz)
         
         for i, connection in enumerate(data['connections']):
